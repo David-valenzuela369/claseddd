@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: cadetblue;
+}
+.nav{
+    background-image: url("/boot/1680243725703.jfif");
+    height: 50px;
+}
+.name{
+    margin-top: -20px;
+    margin-left: 550px;
+    position: fixed;
+    text-align: center;
+    padding: 16px;
+}
+.f{
+    border-radius: 50%;
+    padding: 7px;
+    width: 40px;
+    height: 40px;
+}
+.p{
+    margin-left: 550px;
+    padding: 40px;
+    height: 30px;
+    width: 300px;
+}
+.cono{
+    margin-top: -80px;
+    padding: 10px;
+    height: 13px;
+    width: 300px;
+    background-color: aquamarine;
+}
+.foo{
+    background-color: aquamarine;
+    margin-top: 475px;
+    text-align: center;
+    text-decoration: none;
+}
